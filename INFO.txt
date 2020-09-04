@@ -1,0 +1,2 @@
+Smal math library writen on C++
+which solve SLE and find eigenvector.
